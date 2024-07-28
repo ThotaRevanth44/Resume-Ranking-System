@@ -1,9 +1,9 @@
-# Resume-Ranking-System
-Application which ranks the given resumes with percentage for better resume building using NLP and Sentimental analysis.
-Steps:
-pip install -r requirements.txt
-Replace GOOGLE_CLIENT_ID
-add client_secret.json
-Replace MONGO_URI
-Add assets folder
-Finally flask run to start the server
+1. pip install -r requirements.txt
+2. Replace GOOGLE_CLIENT_ID
+3. add client_secret.json 
+4. Replace MONGO_URI
+5. Add assets folder
+6. Finally flask run to start the server
+
+#Check out this video for overall guide:
+https://youtu.be/CphVOnBUkg4
